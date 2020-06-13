@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="VSMAdaptiveLayout.NonResponsiveLayout"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image
+                HeightRequest="250"
+                Source="graph.png"
+                WidthRequest="250" />
+
+            <Image
+                HeightRequest="280"
+                Source="pie_chart.png"
+                WidthRequest="280" />
+            <Image Source="bullet_graph.png" />
+
+            <Image x:Name="bulletChart" Source="bullet_graph.png" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

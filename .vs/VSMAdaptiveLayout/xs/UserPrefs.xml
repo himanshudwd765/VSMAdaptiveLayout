@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{673E3CC9-68FC-4744-BF95-ED2FDA119249}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VSMAdaptiveLayout" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VSMAdaptiveLayout.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.53BC026E-B2EF-4EB8-BF9C-65FCF4BBA8D2" />
+  <MonoDevelop.Ide.ItemProperties.VSMAdaptiveLayout.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
